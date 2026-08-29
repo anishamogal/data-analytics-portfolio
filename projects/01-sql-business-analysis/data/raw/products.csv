@@ -1,0 +1,7 @@
+product_id,product_name,product_category,standard_price
+P001,Analytics Subscription,Software,1200
+P002,Dashboard Setup,Consulting,2500
+P003,Data Cleaning Package,Service,1800
+P004,Reporting Automation,Service,3000
+P005,Training Workshop,Education,1500
+P006,Premium Support,Support,900

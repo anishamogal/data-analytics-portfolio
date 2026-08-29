@@ -1,0 +1,11 @@
+adjustment_id,transaction_id,adjustment_date,adjustment_type,adjustment_amount,reason
+A001,T007,2024-03-08,Discount,200,Contract pricing mismatch
+A002,T010,2024-04-09,Refund,300,Service issue
+A003,T014,2024-05-15,Discount,100,Incorrect quoted price
+A004,T017,2024-06-18,Discount,200,Manual billing correction
+A005,T019,2024-07-08,Refund,150,Customer complaint
+A006,T022,2024-08-06,Discount,100,Incorrect product rate
+A007,T025,2024-09-13,Discount,100,Promotional adjustment
+A008,T027,2024-10-05,Refund,250,Partial service failure
+A009,T033,2024-12-18,Refund,100,Support delay
+A010,T035,2024-12-31,Discount,300,Billing setup error
